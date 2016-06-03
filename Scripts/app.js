@@ -21,9 +21,9 @@
     
     // data for my pages   
     //index
-    paragraphs[0] = "<div class='indexFirstSentence'> Loves to meet new people, but very shy.</div> <br><div class='picture'> <img src=Assets/shyicon.png></div><br><br><br> If you want to know more about me Click >> <a href='about.html'>About Me</a> <br> If you want to see my projects Click >> <a href='projects.html'>Projects</a> <br> If you want to contact me Click >> <a href='contact.html'>Contact</a></div>";
+    paragraphs[0] = "<div class='indexFirstSentence'> Loves to meet new people, but very shy.</div> <br><div class='picture'> <img src=Assets/shyicon.png></div><br><br><br> <div class='indexSecondSentence'> If you want to know more about me Click >> <a href='about.html'>About Me</a> <br> If you want to see my projects Click >> <a href='projects.html'>Projects</a> <br> If you want to contact me Click >> <a href='contact.html'>Contact</a></div>";
     
-    paragraphs[1] = "The first Three projects of mine will be added even though they are not good/pretty.";
+    paragraphs[1] = "<div class='indexSecondSentence'>The first Three projects of mine will be added even though they are not good/pretty.</div>";
     
     paragraphs[2] = "<div class='indexSecondSentence'> Graduated from Ryerson University with Bachelor of Commerce, Business Technology Management <br> Currently is enrolled in Health Informatics Technology at Centennial College <br> ";
     
