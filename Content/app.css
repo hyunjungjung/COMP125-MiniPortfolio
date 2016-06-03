@@ -12,19 +12,19 @@
 }
 .indexFirstSentence{
     
-    color: darkblue;
+    color: darkgray;
     font-style: bold;
-    font-size:25px;
+    font-size:20px;
     text-align:center;
 }
 .indexSecondSentence{
     font-size:14px;
-    color: darkblue;
+    color: dodgerblue;
     text-align:center;
 }
 h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: darkblue;
+    color: STEELBLUE;
     font-style: bold;
     text-align:center;
 }

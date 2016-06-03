@@ -21,7 +21,7 @@
     
     // data for my pages   
     //index
-    paragraphs[0] = "<div class=indexFirstSentence'> Loves to meet new people, but very shy.<div> <br><br><br><br> If you want to know more about me Click >> <a href='about.html'>About Me</a> <br> If you want to see my projects Click >> <a href='projects.html'>Projects</a> <br> If you want to contact me Click >> <a href='contact.html'>Contact</a></div>";
+    paragraphs[0] = "<div class='indexFirstSentence'> Loves to meet new people, but very shy.</div> <br><div class='picture'> <img src=Assets/shyicon.png></div><br><br><br> If you want to know more about me Click >> <a href='about.html'>About Me</a> <br> If you want to see my projects Click >> <a href='projects.html'>Projects</a> <br> If you want to contact me Click >> <a href='contact.html'>Contact</a></div>";
     
     paragraphs[1] = "The first Three projects of mine will be added even though they are not good/pretty.";
     
