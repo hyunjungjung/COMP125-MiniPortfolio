@@ -6,13 +6,13 @@
 */
 .picture{
     text-align:center;
-    padding:20px;
+    padding-bottom :20px;
     margin-left:auto;
     margin-right:auto;
 }
 .indexFirstSentence{
     
-    color: darkgray;
+    color: black;
     font-style: bold;
     font-size:20px;
     text-align:center;
@@ -26,9 +26,14 @@
 }
 h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: TEAL;
+    color: DARKSALMON;
     text-align:center;
+    
 }
-.webLinks{
-    text-align:right;
+body{
+    background-color: HONEYDEW
+}
+.logo{
+    margin-top:-6px;
+
 }
