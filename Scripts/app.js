@@ -15,6 +15,8 @@
     paragraphElements[0] = document.getElementById("paragraphOne");
     paragraphElements[1] = document.getElementById("paragraphTwo");
     paragraphElements[2] = document.getElementById("paragraphThree");
+    paragraphElements[3]=document.getElementById("paragraphFour");
+    paragraphElements[4]=document.getElementById("paragraphFive");
     
     // define your paragraphs array(most common way)
     var paragraphs = [];
@@ -22,10 +24,12 @@
     // data for my pages   
     //index
     paragraphs[0] = "<div class='indexFirstSentence'> Loves to meet new people, but very shy.</div> <br><div class='picture'> <img src=Assets/shyicon.png></div><br><br><br> <div class='indexSecondSentence'> If you want to know more about me Click >> <a href='about.html'>About Me</a> <br> If you want to see my projects Click >> <a href='projects.html'>Projects</a> <br> If you want to contact me Click >> <a href='contact.html'>Contact</a></div>";
-    
-    paragraphs[1] = "<div class='indexSecondSentence'>The first Three projects of mine will be added even though they are not good/pretty.</div>";
-    
-    paragraphs[2] = "<div class='indexSecondSentence'> Graduated from Ryerson University with Bachelor of Commerce, Business Technology Management <br> Currently is enrolled in Health Informatics Technology at Centennial College <br> ";
+    // proejct
+    paragraphs[1] = "<br><div class='indexSecondSentence'>The first project is from last semester, COMP213 - Web Interface Design, <br> and it is the main homepage of my portfolio. <br>It contains all assignments and projects I did for last year, and also little about myself.<br><a href='http://studentweb.cencol.ca/hjung3/'>Portfolio - COMP213</a> </div>";
+    paragraphs[3]="<div class='indexSecondSentence'>The second project is a web registration form I developed for a Tennis club, Thornhill Park Tennis Club.<br> <a href='http://studentweb.cencol.ca/hjung3/assignment4/assignment_4.html'>Web Form - Thornhill Park Tennis Club.</a></div>"
+    paragraphs[4]="<div class='indexSecondSentence'>The third project of mine is a website for a realtor, Maria Guadagnolo, with some of her current listings.<br> <a href='http://studentweb.cencol.ca/hjung3/Project/homepage.html'>Homepage - Maria Guadagnolo</a></div>"
+    //about me
+    paragraphs[2] = "<div class='indexSecondSentence'> If you can't avoid it, Enjoy it! </div>";
     
     
     
